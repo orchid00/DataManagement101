@@ -2,14 +2,17 @@
 Open Access presentation, free of charge by any user, with no technical obstacles (such as mandatory registration or login to specific platforms)
 
 Views
+
 <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6930386&style=0003&nbdigits=9&type=page&initCount=1" title="Hit Web Stats" Alt="Hit Web Stats"   border="0" >
 </a><br/>
 <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
 target="_blank" style="font-family: ; 
-font-size: px; color: #; text-decoration:  ;"><>                                        </>
+font-size: px; color: #; text-decoration:  ;"><></>
 </a>   
+
+
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) 
